@@ -1,0 +1,241 @@
+﻿NPP_ID,Tinh_Thanh,Vung_Mien,Cluster_Name,Muc_rebate_hien_tai_VND_tan,Rebate_Score,Rebate_AHP_VND_tan,Rebate_ML_VND_tan,Rebate_Min,Rebate_Max,Top_factor
+NPP_001,Vĩnh Long,Tây Nam Bộ (ĐBSCL),Cạnh tranh cao / cần hỗ trợ,54000,0.6219484840347094,55800.0,54200.0,51000.0,57000.0,Profitability Gap
+NPP_002,Tây Ninh,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,46000,0.649329179739592,58900.0,54700.0,52000.0,58000.0,Profitability Gap
+NPP_003,Vĩnh Long,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,63000,0.39552339631395284,44700.0,45600.0,43000.0,49000.0,Share of Wallet
+NPP_004,Sóc Trăng,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,47000,0.1736087965482646,33300.0,18700.0,16000.0,22000.0,Tiềm năng tăng trưởng
+NPP_005,Bình Phước,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,68000,0.531142139824577,40500.0,40900.0,38000.0,44000.0,Tiềm năng tăng trưởng
+NPP_006,Vĩnh Long,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,47000,0.3443248018260114,39800.0,39000.0,36000.0,42000.0,Share of Wallet
+NPP_007,Trà Vinh,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,70000,0.2962494837262132,35600.0,34100.0,31000.0,37000.0,Share of Wallet
+NPP_008,An Giang,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,41000,0.34020994916583214,39100.0,39700.0,37000.0,43000.0,Profitability Gap
+NPP_009,Tây Ninh,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,38000,0.6067558356928202,52000.0,53200.0,50000.0,56000.0,Profitability Gap
+NPP_010,Bà Rịa - Vũng Tàu,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,28000,0.43183969378015,27100.0,24900.0,22000.0,28000.0,Tiềm năng tăng trưởng
+NPP_011,TP.HCM,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,50000,0.47728377561308316,31400.0,35600.0,33000.0,39000.0,Profitability Gap
+NPP_012,Bạc Liêu,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,70000,0.48552721192400194,59600.0,59000.0,56000.0,62000.0,Tiềm năng tăng trưởng
+NPP_013,Hậu Giang,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,47000,0.4700642609772562,56700.0,57500.0,54000.0,61000.0,Profitability Gap
+NPP_014,Kiên Giang,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,35000,0.3318260475947817,38200.0,43700.0,41000.0,47000.0,Tiềm năng tăng trưởng
+NPP_015,Bình Dương,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,30000,0.5704740074191897,45800.0,45700.0,43000.0,49000.0,Tiềm năng tăng trưởng
+NPP_016,Bình Dương,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,34000,0.6120306957059917,53900.0,51500.0,48000.0,55000.0,Profitability Gap
+NPP_017,Tiền Giang,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,27000,0.3225011185016003,37500.0,36900.0,34000.0,40000.0,Share of Wallet
+NPP_018,Bình Dương,Đông Nam Bộ,Hiệu quả cao / thị trường thuận lợi,23000,0.49766701891841597,61900.0,59200.0,56000.0,62000.0,Profitability Gap
+NPP_019,Cà Mau,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,55000,0.40466405207660466,46900.0,50500.0,47000.0,54000.0,Profitability Gap
+NPP_020,Đồng Tháp,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,67000,0.5138037320365519,65800.0,63500.0,60000.0,67000.0,Share of Wallet
+NPP_021,Tiền Giang,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,81000,0.49804482963449764,62500.0,62200.0,59000.0,65000.0,Tiềm năng tăng trưởng
+NPP_022,Bà Rịa - Vũng Tàu,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,43000,0.6140532900846561,54200.0,53800.0,51000.0,57000.0,Profitability Gap
+NPP_023,Cà Mau,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,63000,0.36088875209882704,40800.0,45900.0,43000.0,49000.0,Profitability Gap
+NPP_024,Bạc Liêu,Tây Nam Bộ (ĐBSCL),Cạnh tranh cao / cần hỗ trợ,57000,0.5617856627052052,44200.0,45800.0,43000.0,49000.0,Tiềm năng tăng trưởng
+NPP_025,Vĩnh Long,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,36000,0.3324743900245223,38500.0,39500.0,36000.0,43000.0,Tiềm năng tăng trưởng
+NPP_026,Bình Phước,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,49000,0.684312328959063,63300.0,61100.0,58000.0,64000.0,Profitability Gap
+NPP_027,Bình Phước,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,52000,0.5932641717898897,50100.0,50400.0,47000.0,53000.0,Profitability Gap
+NPP_028,Đồng Nai,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,38000,0.4397027211146689,27700.0,29000.0,26000.0,32000.0,Tiềm năng tăng trưởng
+NPP_029,Đồng Nai,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,40000,0.515527769839096,36400.0,40600.0,38000.0,44000.0,Profitability Gap
+NPP_030,Vĩnh Long,Tây Nam Bộ (ĐBSCL),Cạnh tranh cao / cần hỗ trợ,23000,0.565587701176151,44800.0,45000.0,42000.0,48000.0,Tiềm năng tăng trưởng
+NPP_031,Cà Mau,Tây Nam Bộ (ĐBSCL),Cạnh tranh cao / cần hỗ trợ,29000,0.5002470643468382,33900.0,35000.0,32000.0,38000.0,Tiềm năng tăng trưởng
+NPP_032,Hậu Giang,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,52000,0.2873713481118579,35200.0,33800.0,31000.0,37000.0,Share of Wallet
+NPP_033,Tây Ninh,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,44000,0.645910700762207,58300.0,59900.0,57000.0,63000.0,Profitability Gap
+NPP_034,Tây Ninh,Đông Nam Bộ,Hiệu quả cao / thị trường thuận lợi,37000,0.3652781612238294,41100.0,43100.0,40000.0,46000.0,Tiềm năng tăng trưởng
+NPP_035,TP.HCM,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,57000,0.5577243339301385,43300.0,46800.0,44000.0,50000.0,Profitability Gap
+NPP_036,Bình Thuận,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,60000,0.4554202819226027,28900.0,31200.0,28000.0,34000.0,Tiềm năng tăng trưởng
+NPP_037,TP.HCM,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,47000,0.5040957995076458,34500.0,40200.0,37000.0,43000.0,Profitability Gap
+NPP_038,Bình Thuận,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,35000,0.5003670593216262,34200.0,33600.0,31000.0,37000.0,Profitability Gap
+NPP_039,Bình Phước,Đông Nam Bộ,Hiệu quả cao / thị trường thuận lợi,56000,0.4978328605928497,62200.0,61000.0,58000.0,64000.0,Tiềm năng tăng trưởng
+NPP_040,Kiên Giang,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,70000,0.5201374787190266,66100.0,63900.0,61000.0,67000.0,Profitability Gap
+NPP_041,Bình Dương,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,60000,0.6570048449394577,60100.0,61100.0,58000.0,64000.0,Profitability Gap
+NPP_042,Tiền Giang,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,77000,0.3723442212339938,42700.0,41600.0,39000.0,45000.0,Share of Wallet
+NPP_043,Bến Tre,Tây Nam Bộ (ĐBSCL),Cạnh tranh cao / cần hỗ trợ,60000,0.520928478977946,38300.0,40000.0,37000.0,43000.0,Profitability Gap
+NPP_044,Tây Ninh,Đông Nam Bộ,Hiệu quả cao / thị trường thuận lợi,62000,0.49755960580307157,61600.0,62700.0,60000.0,66000.0,Profitability Gap
+NPP_045,Trà Vinh,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,54000,0.3716015513736624,42400.0,48200.0,45000.0,51000.0,Share of Wallet
+NPP_046,Trà Vinh,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,59000,0.5073308619767211,64500.0,62800.0,60000.0,66000.0,Profitability Gap
+NPP_047,TP.HCM,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,59000,0.5943430196141027,50500.0,47200.0,44000.0,50000.0,Share of Wallet
+NPP_048,Đồng Nai,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,31000,0.4812458724534664,32100.0,34100.0,31000.0,37000.0,Profitability Gap
+NPP_049,Bạc Liêu,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,66000,0.4629574813230565,55100.0,55400.0,52000.0,58000.0,Tiềm năng tăng trưởng
+NPP_050,TP.HCM,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,26000,0.4453168644132123,28300.0,28400.0,25000.0,31000.0,Profitability Gap
+NPP_051,Bà Rịa - Vũng Tàu,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,40000,0.5154466336818732,36100.0,39000.0,36000.0,42000.0,Cường độ cạnh tranh
+NPP_052,Đồng Nai,Đông Nam Bộ,Hiệu quả cao / thị trường thuận lợi,68000,0.5936218685899125,70000.0,74200.0,71000.0,77000.0,Profitability Gap
+NPP_053,Bến Tre,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,61000,0.30022426437174243,35900.0,36200.0,33000.0,39000.0,Tiềm năng tăng trưởng
+NPP_054,Vĩnh Long,Tây Nam Bộ (ĐBSCL),Cạnh tranh cao / cần hỗ trợ,65000,0.6413310589967794,57600.0,56200.0,53000.0,59000.0,Profitability Gap
+NPP_055,Kiên Giang,Tây Nam Bộ (ĐBSCL),Cạnh tranh cao / cần hỗ trợ,56000,0.5207777668132303,38000.0,41800.0,39000.0,45000.0,Profitability Gap
+NPP_056,Tiền Giang,Tây Nam Bộ (ĐBSCL),Cạnh tranh cao / cần hỗ trợ,26000,0.4048715598888091,26400.0,23100.0,20000.0,26000.0,Profitability Gap
+NPP_057,Bình Phước,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,45000,0.5181015956110601,37000.0,37500.0,34000.0,41000.0,Profitability Gap
+NPP_058,Tiền Giang,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,46000,0.4004579219978019,45300.0,47500.0,44000.0,51000.0,Share of Wallet
+NPP_059,Bình Phước,Đông Nam Bộ,Hiệu quả cao / thị trường thuận lợi,61000,0.4252650767027918,50500.0,53200.0,50000.0,56000.0,Profitability Gap
+NPP_060,Bình Thuận,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,69000,0.6517249164664073,59500.0,58200.0,55000.0,61000.0,Profitability Gap
+NPP_061,Hậu Giang,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,37000,0.3099134355454666,36500.0,35600.0,33000.0,39000.0,Tiềm năng tăng trưởng
+NPP_062,Bình Thuận,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,57000,0.576177079078723,47700.0,48600.0,46000.0,52000.0,Profitability Gap
+NPP_063,Bến Tre,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,34000,0.45578141971493885,54100.0,54400.0,51000.0,57000.0,Tiềm năng tăng trưởng
+NPP_064,Bến Tre,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,52000,0.37797143158741325,43000.0,48200.0,45000.0,51000.0,Share of Wallet
+NPP_065,Sóc Trăng,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,52000,0.5452569646099464,68100.0,65600.0,63000.0,69000.0,Tiềm năng tăng trưởng
+NPP_066,Long An,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,37000,0.46251410641765517,54700.0,58500.0,55000.0,62000.0,Profitability Gap
+NPP_067,Đồng Tháp,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,44000,0.3869047185486021,44000.0,44500.0,41000.0,48000.0,Share of Wallet
+NPP_068,Bà Rịa - Vũng Tàu,Đông Nam Bộ,Hiệu quả cao / thị trường thuận lợi,44000,0.4063878912929854,47300.0,46900.0,44000.0,50000.0,Cường độ cạnh tranh
+NPP_069,Bình Phước,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,45000,0.6114525936266495,53000.0,48600.0,46000.0,52000.0,Profitability Gap
+NPP_070,Bà Rịa - Vũng Tàu,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,70000,0.6319895632268087,56700.0,54400.0,51000.0,57000.0,Profitability Gap
+NPP_071,Tây Ninh,Đông Nam Bộ,Hiệu quả cao / thị trường thuận lợi,46000,0.41572564852590804,48200.0,47500.0,44000.0,51000.0,Tiềm năng tăng trưởng
+NPP_072,Bình Dương,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,39000,0.5299833537485071,39900.0,42400.0,39000.0,45000.0,Profitability Gap
+NPP_073,Sóc Trăng,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,36000,0.33180003900001714,37800.0,38800.0,36000.0,42000.0,Share of Wallet
+NPP_074,Bình Dương,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,27000,0.5095720714520804,35200.0,38600.0,36000.0,42000.0,Cường độ cạnh tranh
+NPP_075,TP.HCM,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,45000,0.5379759525700398,41100.0,38600.0,36000.0,42000.0,Profitability Gap
+NPP_076,Bình Phước,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,34000,0.5473639941286107,42000.0,43500.0,40000.0,47000.0,Profitability Gap
+NPP_077,Tây Ninh,Đông Nam Bộ,Hiệu quả cao / thị trường thuận lợi,76000,0.4836150072307473,59300.0,60200.0,57000.0,63000.0,Tiềm năng tăng trưởng
+NPP_078,Bạc Liêu,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,39000,0.5010400727289045,63200.0,59100.0,56000.0,62000.0,Profitability Gap
+NPP_079,Sóc Trăng,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,60000,0.4672829647449429,56400.0,57800.0,55000.0,61000.0,Tiềm năng tăng trưởng
+NPP_080,Bạc Liêu,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,44000,0.33335160189748614,38800.0,41700.0,39000.0,45000.0,Profitability Gap
+NPP_081,An Giang,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,51000,0.47186259644544565,57300.0,56300.0,53000.0,59000.0,Profitability Gap
+NPP_082,Bình Thuận,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,38000,0.6170457566702792,54800.0,55000.0,52000.0,58000.0,Profitability Gap
+NPP_083,An Giang,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,45000,0.31269192020557013,36900.0,38900.0,36000.0,42000.0,Share of Wallet
+NPP_084,Đồng Nai,Đông Nam Bộ,Hiệu quả cao / thị trường thuận lợi,55000,0.5644429720892312,69000.0,69600.0,67000.0,73000.0,Profitability Gap
+NPP_085,TP.HCM,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,27000,0.5450651667978929,41700.0,44700.0,42000.0,48000.0,Profitability Gap
+NPP_086,Đồng Nai,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,24000,0.5740165996739766,46700.0,47300.0,44000.0,50000.0,Profitability Gap
+NPP_087,Bến Tre,Tây Nam Bộ (ĐBSCL),Cạnh tranh cao / cần hỗ trợ,29000,0.45738382842242564,29200.0,31800.0,29000.0,35000.0,Tiềm năng tăng trưởng
+NPP_088,Đồng Nai,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,55000,0.570361313045969,45500.0,46000.0,43000.0,49000.0,Profitability Gap
+NPP_089,Bà Rịa - Vũng Tàu,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,51000,0.5126297696188247,35800.0,34900.0,32000.0,38000.0,Tiềm năng tăng trưởng
+NPP_090,Bình Phước,Đông Nam Bộ,Hiệu quả cao / thị trường thuận lợi,61000,0.42602297659607924,50800.0,55900.0,53000.0,59000.0,Tiềm năng tăng trưởng
+NPP_091,TP.HCM,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,36000,0.5042145451389775,34900.0,38900.0,36000.0,42000.0,Profitability Gap
+NPP_092,Đồng Tháp,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,72000,0.44682466062440324,52800.0,51700.0,49000.0,55000.0,Tiềm năng tăng trưởng
+NPP_093,Đồng Nai,Đông Nam Bộ,Hiệu quả cao / thị trường thuận lợi,67000,0.38356250132544467,43700.0,46100.0,43000.0,49000.0,Share of Wallet
+NPP_094,Bình Thuận,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,46000,0.5822978061459478,49500.0,47000.0,44000.0,50000.0,Profitability Gap
+NPP_095,Bình Thuận,Đông Nam Bộ,Hiệu quả cao / thị trường thuận lợi,56000,0.5356140311918488,67100.0,65000.0,62000.0,68000.0,Tiềm năng tăng trưởng
+NPP_096,Trà Vinh,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,56000,0.4014490129333831,46000.0,50500.0,47000.0,54000.0,Tiềm năng tăng trưởng
+NPP_097,TP.HCM,Đông Nam Bộ,Hiệu quả cao / thị trường thuận lợi,36000,0.44967432469222635,53800.0,52800.0,50000.0,56000.0,Tiềm năng tăng trưởng
+NPP_098,Bình Phước,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,58000,0.7144445675244411,64200.0,65600.0,63000.0,69000.0,Profitability Gap
+NPP_099,TP.HCM,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,59000,0.64876574824508,58600.0,57000.0,54000.0,60000.0,Profitability Gap
+NPP_100,Tiền Giang,Tây Nam Bộ (ĐBSCL),Cạnh tranh cao / cần hỗ trợ,43000,0.6224435202765367,56100.0,54100.0,51000.0,57000.0,Tiềm năng tăng trưởng
+NPP_101,Tiền Giang,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,67000,0.5246406633096792,66800.0,62600.0,60000.0,66000.0,Tiềm năng tăng trưởng
+NPP_102,Sóc Trăng,Tây Nam Bộ (ĐBSCL),Cạnh tranh cao / cần hỗ trợ,31000,0.5563993250741276,43000.0,42500.0,39000.0,46000.0,Profitability Gap
+NPP_103,Bình Thuận,Đông Nam Bộ,Hiệu quả cao / thị trường thuận lợi,33000,0.4279804753959875,51200.0,48400.0,45000.0,51000.0,Profitability Gap
+NPP_104,Long An,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,29000,0.49739128421838286,60900.0,59400.0,56000.0,62000.0,Profitability Gap
+NPP_105,Đồng Tháp,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,39000,0.4349645571359067,51500.0,49500.0,46000.0,53000.0,Share of Wallet
+NPP_106,Cà Mau,Tây Nam Bộ (ĐBSCL),Cạnh tranh cao / cần hỗ trợ,32000,0.5475000722451332,42300.0,45000.0,42000.0,48000.0,Profitability Gap
+NPP_107,Bà Rịa - Vũng Tàu,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,22000,0.5216469700660563,38900.0,36600.0,34000.0,40000.0,Profitability Gap
+NPP_108,Bình Thuận,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,35000,0.48151913776316724,32400.0,32500.0,29000.0,36000.0,Profitability Gap
+NPP_109,Tây Ninh,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,33000,0.6100981364244429,52600.0,48800.0,46000.0,52000.0,Profitability Gap
+NPP_110,Sóc Trăng,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,70000,0.5108653706788341,65100.0,68400.0,65000.0,71000.0,Profitability Gap
+NPP_111,Tây Ninh,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,75000,0.660674362048971,61700.0,62300.0,59000.0,65000.0,Profitability Gap
+NPP_112,TP.HCM,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,33000,0.4823046639100134,33000.0,30900.0,28000.0,34000.0,Profitability Gap
+NPP_113,Đồng Nai,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,40000,0.5812506234994488,49200.0,46600.0,44000.0,50000.0,Profitability Gap
+NPP_114,Cà Mau,Tây Nam Bộ (ĐBSCL),Cạnh tranh cao / cần hỗ trợ,32000,0.47132484333286406,30500.0,30000.0,27000.0,33000.0,Profitability Gap
+NPP_115,Bình Dương,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,23000,0.46914300793295644,30200.0,35400.0,32000.0,38000.0,Tiềm năng tăng trưởng
+NPP_116,Sóc Trăng,Tây Nam Bộ (ĐBSCL),Cạnh tranh cao / cần hỗ trợ,54000,0.6175941134799349,55100.0,52000.0,49000.0,55000.0,Profitability Gap
+NPP_117,Kiên Giang,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,38000,0.3429371708412646,39500.0,44400.0,41000.0,47000.0,Tiềm năng tăng trưởng
+NPP_118,Sóc Trăng,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,48000,0.4796986561245022,59000.0,57100.0,54000.0,60000.0,Profitability Gap
+NPP_119,Bà Rịa - Vũng Tàu,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,38000,0.5801499940135684,48600.0,46300.0,43000.0,49000.0,Profitability Gap
+NPP_120,Cần Thơ,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,26000,0.19307386390429446,33600.0,23000.0,20000.0,26000.0,Tiềm năng tăng trưởng
+NPP_121,Cần Thơ,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,51000,0.2532892106022565,33900.0,30400.0,27000.0,33000.0,Tiềm năng tăng trưởng
+NPP_122,Sóc Trăng,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,56000,0.43594586333157864,52100.0,54100.0,51000.0,57000.0,Tiềm năng tăng trưởng
+NPP_123,Tây Ninh,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,49000,0.5286573465687756,39200.0,39400.0,36000.0,42000.0,Tiềm năng tăng trưởng
+NPP_124,Bình Thuận,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,32000,0.6390166696896453,57300.0,57500.0,54000.0,61000.0,Profitability Gap
+NPP_125,Tây Ninh,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,55000,0.6604033185767212,61400.0,58700.0,56000.0,62000.0,Profitability Gap
+NPP_126,Bình Phước,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,38000,0.3738858759172551,25800.0,23800.0,21000.0,27000.0,Tiềm năng tăng trưởng
+NPP_127,Bình Dương,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,65000,0.6049887355932245,51700.0,50400.0,47000.0,53000.0,Tiềm năng tăng trưởng
+NPP_128,Bình Phước,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,49000,0.6640481849955964,62300.0,62300.0,59000.0,65000.0,Profitability Gap
+NPP_129,TP.HCM,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,18000,0.5579230076719418,43600.0,44500.0,41000.0,48000.0,Profitability Gap
+NPP_130,Bạc Liêu,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,36000,0.38779207963740625,44300.0,42700.0,40000.0,46000.0,Tiềm năng tăng trưởng
+NPP_131,Tây Ninh,Đông Nam Bộ,Hiệu quả cao / thị trường thuận lợi,57000,0.4767469033221907,58000.0,56000.0,53000.0,59000.0,Cường độ cạnh tranh
+NPP_132,An Giang,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,58000,0.48992688286862274,59900.0,57900.0,55000.0,61000.0,Profitability Gap
+NPP_133,Sóc Trăng,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,29000,0.41834706372642455,49200.0,48400.0,45000.0,51000.0,Profitability Gap
+NPP_134,Bình Dương,Đông Nam Bộ,Hiệu quả cao / thị trường thuận lợi,75000,0.5046099557839436,64200.0,62700.0,60000.0,66000.0,Profitability Gap
+NPP_135,Cần Thơ,Tây Nam Bộ (ĐBSCL),Cạnh tranh cao / cần hỗ trợ,63000,0.5123881707136884,35500.0,37700.0,35000.0,41000.0,Profitability Gap
+NPP_136,Bà Rịa - Vũng Tàu,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,38000,0.5292412430363004,39500.0,41100.0,38000.0,44000.0,Profitability Gap
+NPP_137,Vĩnh Long,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,66000,0.36713880541405497,41700.0,42600.0,40000.0,46000.0,Profitability Gap
+NPP_138,Đồng Nai,Đông Nam Bộ,Hiệu quả cao / thị trường thuận lợi,65000,0.5018824925400893,63800.0,60400.0,57000.0,63000.0,Profitability Gap
+NPP_139,Long An,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,65000,0.3663489847605698,41400.0,46300.0,43000.0,49000.0,Tiềm năng tăng trưởng
+NPP_140,Bình Thuận,Đông Nam Bộ,Hiệu quả cao / thị trường thuận lợi,32000,0.4170075513426879,48900.0,48600.0,46000.0,52000.0,Profitability Gap
+NPP_141,Bình Phước,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,44000,0.657559584912093,60800.0,61200.0,58000.0,64000.0,Profitability Gap
+NPP_142,Bình Phước,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,76000,0.5600060656373625,43900.0,43400.0,40000.0,46000.0,Profitability Gap
+NPP_143,Bến Tre,Tây Nam Bộ (ĐBSCL),Cạnh tranh cao / cần hỗ trợ,34000,0.34300035650610006,25500.0,12900.0,10000.0,16000.0,Tiềm năng tăng trưởng
+NPP_144,Đồng Tháp,Tây Nam Bộ (ĐBSCL),Cạnh tranh cao / cần hỗ trợ,32000,0.44238283889373836,28000.0,27500.0,24000.0,31000.0,Tiềm năng tăng trưởng
+NPP_145,Bà Rịa - Vũng Tàu,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,44000,0.5740697527835088,47000.0,49400.0,46000.0,52000.0,Profitability Gap
+NPP_146,Đồng Nai,Đông Nam Bộ,Hiệu quả cao / thị trường thuận lợi,47000,0.40057860626894126,45600.0,52500.0,49000.0,56000.0,Profitability Gap
+NPP_147,Bình Dương,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,49000,0.47405270987291687,30800.0,32000.0,29000.0,35000.0,Profitability Gap
+NPP_148,Bình Dương,Đông Nam Bộ,Hiệu quả cao / thị trường thuận lợi,32000,0.44716533555115384,53100.0,52700.0,50000.0,56000.0,Tiềm năng tăng trưởng
+NPP_149,Bình Phước,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,38000,0.5888051466319474,49800.0,47100.0,44000.0,50000.0,Profitability Gap
+NPP_150,Bình Dương,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,34000,0.42595244627452905,26700.0,29900.0,27000.0,33000.0,Cường độ cạnh tranh
+NPP_151,Hậu Giang,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,37000,0.4704215217906627,57000.0,59000.0,56000.0,62000.0,Profitability Gap
+NPP_152,Trà Vinh,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,70000,0.45851801678628085,54400.0,54700.0,52000.0,58000.0,Tiềm năng tăng trưởng
+NPP_153,Bình Phước,Đông Nam Bộ,Hiệu quả cao / thị trường thuận lợi,34000,0.37098260564357194,42100.0,41500.0,38000.0,45000.0,Tiềm năng tăng trưởng
+NPP_154,Trà Vinh,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,63000,0.4796450355011396,58600.0,57400.0,54000.0,60000.0,Profitability Gap
+NPP_155,Đồng Nai,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,43000,0.6119069315849361,53600.0,53800.0,51000.0,57000.0,Profitability Gap
+NPP_156,Cần Thơ,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,47000,0.47248483683339787,57700.0,55600.0,53000.0,59000.0,Tiềm năng tăng trưởng
+NPP_157,Đồng Nai,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,35000,0.562699875816223,44500.0,46200.0,43000.0,49000.0,Profitability Gap
+NPP_158,Vĩnh Long,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,35000,0.42502803760258584,49900.0,49700.0,47000.0,53000.0,Profitability Gap
+NPP_159,Sóc Trăng,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,31000,0.4141207426153769,47900.0,47300.0,44000.0,50000.0,Profitability Gap
+NPP_160,Cà Mau,Tây Nam Bộ (ĐBSCL),Cạnh tranh cao / cần hỗ trợ,30000,0.4601181412367855,29900.0,29000.0,26000.0,32000.0,Tiềm năng tăng trưởng
+NPP_161,Bà Rịa - Vũng Tàu,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,32000,0.6014120091148398,51100.0,49100.0,46000.0,52000.0,Profitability Gap
+NPP_162,Bạc Liêu,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,32000,0.27907718364986406,34600.0,34200.0,31000.0,37000.0,Share of Wallet
+NPP_163,Tây Ninh,Đông Nam Bộ,Hiệu quả cao / thị trường thuận lợi,60000,0.46380496472624705,56000.0,55600.0,53000.0,59000.0,Tiềm năng tăng trưởng
+NPP_164,Bình Phước,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,32000,0.6855982480022905,63600.0,62300.0,59000.0,65000.0,Profitability Gap
+NPP_165,Sóc Trăng,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,62000,0.5018217135581654,63500.0,60000.0,57000.0,63000.0,Profitability Gap
+NPP_166,Bình Dương,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,59000,0.5210659064010787,38600.0,41100.0,38000.0,44000.0,Profitability Gap
+NPP_167,Đồng Tháp,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,58000,0.4631789685623107,55400.0,55600.0,53000.0,59000.0,Tiềm năng tăng trưởng
+NPP_168,An Giang,Tây Nam Bộ (ĐBSCL),Cạnh tranh cao / cần hỗ trợ,38000,0.4820517934478199,32700.0,35700.0,33000.0,39000.0,Profitability Gap
+NPP_169,TP.HCM,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,57000,0.6115159314603051,53300.0,52000.0,49000.0,55000.0,Profitability Gap
+NPP_170,Bạc Liêu,Tây Nam Bộ (ĐBSCL),Cạnh tranh cao / cần hỗ trợ,67000,0.4594133854625037,29600.0,29900.0,27000.0,33000.0,Profitability Gap
+NPP_171,Bình Phước,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,36000,0.6032216752947809,51400.0,52400.0,49000.0,55000.0,Profitability Gap
+NPP_172,Bà Rịa - Vũng Tàu,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,59000,0.43682052030602364,27400.0,30000.0,27000.0,33000.0,Profitability Gap
+NPP_173,Đồng Nai,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,60000,0.4751632927013678,31100.0,30600.0,28000.0,34000.0,Profitability Gap
+NPP_174,Sóc Trăng,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,47000,0.40028907464250724,45000.0,49000.0,46000.0,52000.0,Tiềm năng tăng trưởng
+NPP_175,Bình Phước,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,21000,0.48577516761966655,33600.0,34300.0,31000.0,37000.0,Tiềm năng tăng trưởng
+NPP_176,Bình Phước,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,28000,0.6090815393688293,52300.0,51200.0,48000.0,54000.0,Tiềm năng tăng trưởng
+NPP_177,Tây Ninh,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,55000,0.6746234465054686,62900.0,61400.0,58000.0,64000.0,Profitability Gap
+NPP_178,Cần Thơ,Tây Nam Bộ (ĐBSCL),Cạnh tranh cao / cần hỗ trợ,63000,0.5159747392375261,36700.0,36300.0,33000.0,39000.0,Profitability Gap
+NPP_179,Long An,Tây Nam Bộ (ĐBSCL),Cạnh tranh cao / cần hỗ trợ,36000,0.4780531217485916,31700.0,35300.0,32000.0,38000.0,Profitability Gap
+NPP_180,Vĩnh Long,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,47000,0.30776154168446973,36200.0,33200.0,30000.0,36000.0,Tiềm năng tăng trưởng
+NPP_181,Bến Tre,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,62000,0.49073024769447393,60300.0,58100.0,55000.0,61000.0,Profitability Gap
+NPP_182,Hậu Giang,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,63000,0.5707109285904,69400.0,69500.0,66000.0,73000.0,Profitability Gap
+NPP_183,Bình Thuận,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,65000,0.6416422155593277,57900.0,59700.0,57000.0,63000.0,Profitability Gap
+NPP_184,Đồng Nai,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,66000,0.574400268772707,47300.0,48800.0,46000.0,52000.0,Profitability Gap
+NPP_185,Kiên Giang,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,39000,0.4956984222442063,60600.0,58700.0,56000.0,62000.0,Profitability Gap
+NPP_186,Hậu Giang,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,79000,0.4250656592073348,50200.0,48100.0,45000.0,51000.0,Profitability Gap
+NPP_187,Bình Phước,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,43000,0.6184720439281263,55500.0,51500.0,48000.0,55000.0,Profitability Gap
+NPP_188,TP.HCM,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,63000,0.6734205348038431,62600.0,58700.0,56000.0,62000.0,Profitability Gap
+NPP_189,Bạc Liêu,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,49000,0.40427473420010884,46600.0,49500.0,46000.0,53000.0,Share of Wallet
+NPP_190,Bình Thuận,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,43000,0.6573087372004788,60400.0,58900.0,56000.0,62000.0,Profitability Gap
+NPP_191,Cà Mau,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,27000,0.35859880797649507,40400.0,42500.0,39000.0,46000.0,Tiềm năng tăng trưởng
+NPP_192,Bà Rịa - Vũng Tàu,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,45000,0.3944274218175438,26100.0,20100.0,17000.0,23000.0,Tiềm năng tăng trưởng
+NPP_193,Bà Rịa - Vũng Tàu,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,22000,0.6589743723693156,61100.0,60400.0,57000.0,63000.0,Profitability Gap
+NPP_194,Tiền Giang,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,70000,0.5758610695598304,69700.0,69800.0,67000.0,73000.0,Profitability Gap
+NPP_195,Bà Rịa - Vũng Tàu,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,60000,0.7519001803958848,64500.0,69700.0,67000.0,73000.0,Profitability Gap
+NPP_196,Tây Ninh,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,32000,0.5205065833995425,37700.0,37400.0,34000.0,40000.0,Profitability Gap
+NPP_197,Kiên Giang,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,54000,0.4167187712759018,48600.0,52000.0,49000.0,55000.0,Profitability Gap
+NPP_198,Tiền Giang,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,47000,0.3548372646941485,40100.0,39500.0,36000.0,43000.0,Tiềm năng tăng trưởng
+NPP_199,Bình Phước,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,34000,0.4840750540351887,33300.0,34300.0,31000.0,37000.0,Profitability Gap
+NPP_200,TP.HCM,Đông Nam Bộ,Hiệu quả cao / thị trường thuận lợi,56000,0.5099723504939142,64800.0,61400.0,58000.0,64000.0,Tiềm năng tăng trưởng
+NPP_201,Hậu Giang,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,44000,0.5390649028508033,67400.0,65200.0,62000.0,68000.0,Share of Wallet
+NPP_202,Tiền Giang,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,78000,0.5226888544846549,66400.0,64400.0,61000.0,67000.0,Share of Wallet
+NPP_203,TP.HCM,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,22000,0.5423484194489051,41400.0,43600.0,41000.0,47000.0,Profitability Gap
+NPP_204,TP.HCM,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,56000,0.6008437854173977,50800.0,48500.0,45000.0,52000.0,Profitability Gap
+NPP_205,Đồng Nai,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,67000,0.5762833581024017,48000.0,47700.0,45000.0,51000.0,Profitability Gap
+NPP_206,Tây Ninh,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,64000,0.7104283688305393,63900.0,66300.0,63000.0,69000.0,Profitability Gap
+NPP_207,Bình Dương,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,33000,0.5715781722866148,46100.0,48400.0,45000.0,51000.0,Profitability Gap
+NPP_208,Kiên Giang,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,46000,0.37884379348790753,43400.0,43500.0,40000.0,47000.0,Profitability Gap
+NPP_209,Bình Phước,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,46000,0.5723991885766616,46400.0,44700.0,42000.0,48000.0,Profitability Gap
+NPP_210,Tây Ninh,Đông Nam Bộ,Hiệu quả cao / thị trường thuận lợi,39000,0.5115897253907695,65500.0,61600.0,59000.0,65000.0,Profitability Gap
+NPP_211,Cà Mau,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,70000,0.5477416365965075,68400.0,69000.0,66000.0,72000.0,Profitability Gap
+NPP_212,Sóc Trăng,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,61000,0.26172045666703586,34300.0,34900.0,32000.0,38000.0,Tiềm năng tăng trưởng
+NPP_213,TP.HCM,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,54000,0.6552768668081209,59800.0,56900.0,54000.0,60000.0,Profitability Gap
+NPP_214,Cà Mau,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,72000,0.4479575980004869,53400.0,56200.0,53000.0,59000.0,Tiềm năng tăng trưởng
+NPP_215,Tiền Giang,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,62000,0.4026548478349836,46300.0,44900.0,42000.0,48000.0,Tiềm năng tăng trưởng
+NPP_216,Vĩnh Long,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,35000,0.4211371972284403,49500.0,49800.0,47000.0,53000.0,Profitability Gap
+NPP_217,Tây Ninh,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,44000,0.6505081543045759,59200.0,57200.0,54000.0,60000.0,Profitability Gap
+NPP_218,Bà Rịa - Vũng Tàu,Đông Nam Bộ,Hiệu quả cao / thị trường thuận lợi,28000,0.43564848379346055,51800.0,51100.0,48000.0,54000.0,Profitability Gap
+NPP_219,Long An,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,43000,0.4392535248819703,52500.0,51100.0,48000.0,54000.0,Profitability Gap
+NPP_220,Bình Thuận,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,30000,0.6307103076502029,56400.0,54500.0,51000.0,58000.0,Profitability Gap
+NPP_221,Bình Phước,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,70000,0.6628839623686329,62000.0,60700.0,58000.0,64000.0,Profitability Gap
+NPP_222,Bà Rịa - Vũng Tàu,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,46000,0.6374473678456227,57000.0,57600.0,55000.0,61000.0,Profitability Gap
+NPP_223,Bến Tre,Tây Nam Bộ (ĐBSCL),Cạnh tranh cao / cần hỗ trợ,25000,0.5304582389885626,40200.0,38000.0,35000.0,41000.0,Profitability Gap
+NPP_224,Bến Tre,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,58000,0.28610764265173605,34900.0,37100.0,34000.0,40000.0,Tiềm năng tăng trưởng
+NPP_225,Bình Thuận,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,23000,0.4536458289007009,28600.0,28900.0,26000.0,32000.0,Tiềm năng tăng trưởng
+NPP_226,Kiên Giang,Tây Nam Bộ (ĐBSCL),Cạnh tranh cao / cần hỗ trợ,23000,0.5534416038837713,42700.0,44300.0,41000.0,47000.0,Profitability Gap
+NPP_227,Bình Thuận,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,70000,0.5764799259531513,48300.0,44100.0,41000.0,47000.0,Profitability Gap
+NPP_228,Kiên Giang,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,46000,0.4975005438367074,61200.0,58300.0,55000.0,61000.0,Profitability Gap
+NPP_229,An Giang,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,58000,0.5419236097559245,67700.0,67200.0,64000.0,70000.0,Profitability Gap
+NPP_230,Bình Phước,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,29000,0.5368126533113987,40800.0,43700.0,41000.0,47000.0,Profitability Gap
+NPP_231,Bà Rịa - Vũng Tàu,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,47000,0.5199419806810412,37400.0,37600.0,35000.0,41000.0,Profitability Gap
+NPP_232,Bình Phước,Đông Nam Bộ,Hiệu quả cao / thị trường thuận lợi,64000,0.4632123653955721,55700.0,55400.0,52000.0,58000.0,Cường độ cạnh tranh
+NPP_233,Hậu Giang,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,60000,0.5479611445235694,68700.0,70400.0,67000.0,73000.0,Profitability Gap
+NPP_234,Hậu Giang,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,47000,0.5002748673558317,62900.0,60900.0,58000.0,64000.0,Profitability Gap
+NPP_235,Bạc Liêu,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,41000,0.47713416458425684,58300.0,57700.0,55000.0,61000.0,Profitability Gap
+NPP_236,Sóc Trăng,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,39000,0.4133465640746494,47600.0,49100.0,46000.0,52000.0,Tiềm năng tăng trưởng
+NPP_237,Bình Phước,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,20000,0.5701927494327871,45200.0,48300.0,45000.0,51000.0,Profitability Gap
+NPP_238,An Giang,Tây Nam Bộ (ĐBSCL),Hiệu quả cao / thị trường thuận lợi,59000,0.3197392446318734,37200.0,39800.0,37000.0,43000.0,Share of Wallet
+NPP_239,Đồng Nai,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,64000,0.6140899146083132,54500.0,55700.0,53000.0,59000.0,Profitability Gap
+NPP_240,Bà Rịa - Vũng Tàu,Đông Nam Bộ,Cạnh tranh cao / cần hỗ trợ,25000,0.5803343421826485,48900.0,45900.0,43000.0,49000.0,Profitability Gap
