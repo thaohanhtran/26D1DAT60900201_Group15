@@ -72,6 +72,7 @@ Dữ liệu NPP
 ```
 
 ### Cấu trúc thư mục
+.
 ├── eda_stats_chart/
 │   └── Các biểu đồ phân tích khám phá dữ liệu và thống kê mô tả
 │
@@ -86,9 +87,13 @@ Dữ liệu NPP
 │
 ├── DRRF_Q3_2026_Danh_gia_hieu_qua_mo_hinh.ipynb
 │   └── Đánh giá hiệu quả phương án rebate AHP trong Q3/2026
+│   
+│   DRRF_Q3_2026_full_KPI_simulated_monthly_AHP
+│   └── Dataset kiểm chứng và đánh giá hiệu quả mô hình rebate recommendation của AHP/Ridge
 │
 ├── rebate_recommendation_output_need.csv
 │   └── Dữ liệu đầu ra đề xuất rebate cấp NPP
 │
 └── README.md
     └── Tài liệu hướng dẫn dự án
+
