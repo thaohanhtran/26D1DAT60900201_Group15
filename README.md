@@ -5,6 +5,7 @@
 ## 1. Giới thiệu dự án
 
 Dự án xây dựng **Dynamic Rebate Recommendation Framework, DRRF**, nhằm hỗ trợ doanh nghiệp phân bổ lại ngân sách rebate cho hệ thống nhà phân phối, NPP, dựa trên dữ liệu.
+(Lĩnh vực áp dụng hiện tại thuộc ngành xi măng).
 
 Chính sách hiện tại chủ yếu phân bổ rebate theo quy mô doanh số. Cách tiếp cận này có thể dẫn đến hai vấn đề:
 
