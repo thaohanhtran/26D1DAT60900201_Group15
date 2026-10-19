@@ -1,0 +1,14 @@
+﻿KPI,Ket_qua,Don_vi,Cong_thuc,Nguong_danh_gia
+Incremental Volume (Sản lượng tăng thêm),170.19898343095934,tấn/NPP/quý,DiD sản lượng: Pilot - Đối chứng,Dương
+Incremental Gross Profit (Lợi nhuận gộp tăng thêm),69302802.07352719,VNĐ/NPP/quý,DiD Net Contribution sau rebate,Dương
+Incremental Rebate Cost (Chi phí rebate tăng thêm),-4279107.850701969,VNĐ/NPP/quý,DiD rebate thực chi,Dùng làm mẫu số tính ROI
+Rebate ROI / Save-and-grow (Hiệu quả rebate),16.195619388784127,lần,Lợi nhuận gộp tăng thêm / |Chi phí rebate tăng thêm|,Tiết kiệm & tăng trưởng (Save-and-grow)
+Profitability Gap (Chênh lệch biên lợi nhuận),0.3622350193746948,điểm %,DiD (biên NPP sau rebate) - (biên đối thủ),Cải thiện
+Share of Wallet (Tỷ trọng trong danh mục NPP),1.6976207440007474,điểm %,DiD Share of Wallet,Cải thiện
+Retention - Pilot (Tỷ lệ duy trì),0.9666666666666667,%,Số NPP còn hoạt động cuối Q3 / Tổng NPP đầu Q3,Không giảm
+Retention - Đối chứng (Tỷ lệ duy trì),0.9583333333333334,%,Số NPP còn hoạt động cuối Q3 / Tổng NPP đầu Q3,So sánh đối chiếu
+Churn - Pilot (Tỷ lệ rời bỏ),0.03333333333333333,%,1 - Tỷ lệ duy trì,Không tăng
+Budget Compliance - Pilot (Tỷ lệ tuân thủ ngân sách),0.7583333333333333,%,Số NPP có rebate thực chi <= ngân sách duyệt,>= 95% số NPP
+Budget Utilization - Pilot (Mức sử dụng ngân sách),0.9862955141080538,%,Rebate thực chi / Ngân sách được duyệt,<= 100%
+Loss-making NPP Rate - Pilot (Tỷ lệ NPP thua lỗ),0.058333333333333334,%,Số NPP có Net Contribution < 0,Không tăng
+Loss-making NPP Rate - Đối chứng (Tỷ lệ NPP thua lỗ),0.03333333333333333,%,Số NPP có Net Contribution < 0,So sánh đối chiếu
