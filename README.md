@@ -4,7 +4,7 @@
 
 **Môn:** Phân tích dữ liệu – UEH · **Nhóm 15:** Đoàn Thị Thanh Tân, Trần Hạnh Thảo, Trần Lê Minh Trung
 
-> **Lưu ý về dữ liệu:** Bộ dữ liệu 240 nhà phân phối (NPP) xi măng trong repo là **dữ liệu mô phỏng** phục vụ mục đích học tập, không phải số liệu thật của doanh nghiệp.
+> **Lưu ý về dữ liệu:** Bộ dữ liệu 240 nhà phân phối (NPP) xi măng trong repo là **dữ liệu dựa vào thực tế doanh nghiệp & có chỉnh sửa** phục vụ mục đích học tập, không ảnh hưởng đến số liệu thật của doanh nghiệp.
 
 ---
 
